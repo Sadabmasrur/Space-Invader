@@ -133,7 +133,7 @@ while running:
         
     for i in range(num_of_enemies):
         
-        if enemyY[i]>380:
+        if enemyY[i]>340:
             
             for j in range(num_of_enemies):
                 enemyY[j]=2000
